@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/app_color</color>
+    <color name="colorPrimaryDark">#17825e</color>
+    <color name="colorPrimaryTransparent">@color/transparent</color>
+    <color name="colorAccent">@color/app_color</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#d4d4d4</color>
+    <color name="background">#f0f0f0</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#fac73c</color>
+    <color name="green">#76c55a</color>
+    <color name="pink">#ffff3ac4</color>
+    <color name="purple">#660099</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="upload_hint_color">#9024936e</color>
+    <color name="line_gray">#e6e6e6</color>
+    <color name="light_gray">#eeeeee</color>
+    <color name="dim_gray">#696969</color>
+    <color name="light_blue">#49c5fd</color>
+
+    <color name="main_text_color">#979797</color>
+    <color name="text_gray">#6c6c6c</color>
+    <color name="text_light_gray">#979797</color>
+    <color name="text_dim_gray">#696969</color>
+    <color name="text_red">#ed5353</color>
+    <color name="text_black">#323232</color>
+    <color name="text_blue">#1690dd</color>
+
+
+    <color name="app_background">#effef7</color>
+    <color name="app_color">#24936e</color>
+    <color name="app_color_normal">#979797</color>
+    <color name="register_unable">#94D5CA</color>
+    <color name="login_normal">#84CDBE</color>
+
+    <color name="bgcolor">#f1f1f1</color>
+    <color name="remark">#555555</color>
+    <color name="canlendar_text_color">#323232</color>
+</resources>
